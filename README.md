@@ -74,11 +74,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📜 Coding Profiles
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kshitijslays&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NirxDuHUti?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/NirxDuHUti/)
 
 </div>
 
@@ -100,7 +100,6 @@
 
 <br/>
 
-![snake gif](https://github.com/kshitijslays/kshitijslays/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
