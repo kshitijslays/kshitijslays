@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f8fff&height=200&section=header&text=Hi%20There!%20I'm%20Kshitij%20Raj%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Turning%20Ideas%20into%20Scalable%20Digital%20Products&descAlignY=58&descSize=14&descColor=cce0ff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFEB3B&height=180&section=header&text=Hi!%20I'm%20Kshitij%20Raj&fontSize=42&fontColor=0a0a0a&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Turning%20Ideas%20into%20Scalable%20Digital%20Products&descSize=15&descAlignY=70&descColor=1a1a1a&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8FFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Builder+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFEB3B&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Builder+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkshitij/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkshitij876@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitijslays)
-![Profile Views](https://komarev.com/ghpvc/?username=kshitijslays&style=for-the-badge&color=4f8fff&label=PROFILE+VIEWS)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kshitijslays)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B-FFEB3B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NirxDuHUti/)
 
 </div>
 
@@ -17,17 +18,15 @@
 
 ## 🙋‍♂️ About Me
 
-```ts
-const kshitij = {
-  name:       "Kshitij Raj",
-  role:       "Student & Full-Stack Developer",
-  location:   "India 📍",
-  passion:    ["Web Development", "Mobile Apps", "Clean UI"],
-  currentlyLearning: ["Advanced Animations with GSAP", "Three.js 3D Web"],
-  funFact:    "I turn caffeine into code ☕ → 💻",
-  openTo:     ["Freelance Projects", "Collaborations", "Open Source"],
-};
-```
+👋 Hey! I'm **Kshitij Raj**, a passionate **Student & Full-Stack Developer** from India 📍 who loves crafting beautiful, scalable digital products — from sleek web apps to smooth mobile experiences.
+
+- 🎓 &nbsp; Currently a **student** sharpening my dev skills every day
+- 💻 &nbsp; Passionate about **Web Development** & **Mobile Apps**
+- 🧩 &nbsp; Solved **100+ problems** on LeetCode — always sharpening my DSA
+- 🤝 &nbsp; Open to **freelance projects**, **collaborations** & **open source**
+- ⚡ &nbsp; Fun fact: I turn caffeine into code ☕ → 💻
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFEB3B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NirxDuHUti/)
 
 ---
 
@@ -54,12 +53,12 @@ const kshitij = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kshitijslays&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4f8fff&icon_color=4f8fff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijslays&theme=tokyonight&hide_border=true&ring=4f8fff&fire=4f8fff&currStreakLabel=4f8fff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kshitijslays&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FFEB3B&icon_color=FFEB3B" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijslays&theme=tokyonight&hide_border=true&ring=FFEB3B&fire=FFEB3B&currStreakLabel=FFEB3B" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijslays&layout=compact&theme=tokyonight&hide_border=true&title_color=4f8fff&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijslays&layout=compact&theme=tokyonight&hide_border=true&title_color=FFEB3B&langs_count=8" />
 
 </div>
 
@@ -89,7 +88,7 @@ const kshitij = {
 
 <div align="center">
 
-[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitijslays&theme=tokyo-night&hide_border=true&color=4f8fff&line=4f8fff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitijslays&theme=tokyo-night&hide_border=true&color=FFEB3B&line=FFEB3B&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -97,8 +96,18 @@ const kshitij = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f8fff&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEB3B&height=4&section=footer"/>
 
-**💙 Thanks for visiting! Let's build something amazing together.**
+<br/>
+
+![snake gif](https://github.com/kshitijslays/kshitijslays/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+**⭐ If you like my work, consider starring my repos — it means a lot!**
+
+`Made with 💛 by Kshitij Raj`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEB3B&height=4&section=footer"/>
 
 </div>
