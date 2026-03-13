@@ -39,7 +39,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&perline=12)](https://skillicons.dev)
 
 ### ⚙️ Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&perline=12)](https://skillicons.dev)
 
 ### 📱 Mobile
 [![My Skills](https://skillicons.dev/icons?i=flutter,react&perline=12)](https://skillicons.dev)
