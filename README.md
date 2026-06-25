@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFEB3B&height=180&section=header&text=Hi!%20I'm%20Kshitij%20Raj&fontSize=42&fontColor=0a0a0a&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Turning%20Ideas%20into%20Scalable%20Digital%20Products&descSize=15&descAlignY=70&descColor=1a1a1a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=220&section=header&text=Kshitij%20Raj&fontSize=60&fontColor=FFEB3B&fontAlignY=45&desc=Technical%20Associate%20%40%20Caelius%20Consulting%20%7C%20Salesforce%20Developer%20%7C%20Full-Stack%20Engineer&descSize=14&descAlignY=68&descColor=e0e0e0&animation=fadeIn&stroke=FFEB3B&strokeWidth=1" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFEB3B&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Builder+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFEB3B&center=true&vCenter=true&width=680&lines=Technical+Associate+%40+Caelius+Consulting+%F0%9F%8F%A2;Salesforce+Developer+%E2%98%81%EF%B8%8F;Full-Stack+Engineer+%F0%9F%9A%80;Mobile+App+Builder+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -11,6 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitijslays)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kshitijslays)
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B-FFEB3B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NirxDuHUti/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
 </div>
 
@@ -18,9 +19,11 @@
 
 ## 🙋‍♂️ About Me
 
-👋 Hey! I'm **Kshitij Raj**, a passionate **Student & Full-Stack Developer** from India 📍 who loves crafting beautiful, scalable digital products — from sleek web apps to smooth mobile experiences.
+👋 Hey! I'm **Kshitij Raj**, a **Technical Associate at Caelius Consulting** 🏢 based in India 📍 — working on **Salesforce** by day and crafting full-stack web & mobile products by night.
 
-- 🎓 &nbsp; Currently a **student** sharpening my dev skills every day
+- 💼 &nbsp; **Technical Associate @ [Caelius Consulting](https://caeliusconsulting.com/)** — building on the Salesforce platform
+- ☁️ &nbsp; Working with **Salesforce** — CRM, Apex, LWC, and the broader ecosystem
+- 📚 &nbsp; Currently deepening my **Java** skills to level up backend fundamentals
 - 💻 &nbsp; Passionate about **Web Development** & **Mobile Apps**
 - 🧩 &nbsp; Solved **100+ problems** on LeetCode — always sharpening my DSA
 - 🤝 &nbsp; Open to **freelance projects**, **collaborations** & **open source**
@@ -33,7 +36,15 @@
 ## 🚀 Tech Stack
 
 ### 🖥️ Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,dart,js,ts&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,cpp,c,dart&perline=12)](https://skillicons.dev)
+
+> 📖 Currently levelling up in **Java** — OOP, Collections, Spring fundamentals
+
+### ☁️ Salesforce
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce CRM](https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&perline=12)](https://skillicons.dev)
@@ -66,11 +77,12 @@
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently building **full-stack web & mobile apps**
-- 🌱 Exploring **GSAP animations** & **Three.js** 3D experiences
-- 💬 Ask me about **React, Next.js, Flutter, Node.js**
+- 💼 Working as a **Technical Associate at Caelius Consulting**, delivering Salesforce solutions
+- ☁️ Exploring the **Salesforce ecosystem** — Apex, LWC, Flows, and platform integrations
+- 📚 Learning **Java** — strengthening OOP, data structures, and backend principles
+- 🌱 Experimenting with **GSAP animations** & **Three.js** 3D experiences
+- 💬 Ask me about **Salesforce, React, Next.js, Flutter, Node.js**
 - 🤝 Open to **freelance projects** and **collaborations**
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful UIs
 
 ---
 
@@ -97,9 +109,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFEB3B&height=4&section=footer"/>
-
-<br/>
-
 
 <br/>
 
