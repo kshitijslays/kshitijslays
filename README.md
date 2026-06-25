@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=220&section=header&text=Kshitij%20Raj&fontSize=60&fontColor=FFEB3B&fontAlignY=45&desc=Technical%20Associate%20%40%20Caelius%20Consulting%20%7C%20Salesforce%20Developer%20%7C%20Full-Stack%20Engineer&descSize=14&descAlignY=68&descColor=e0e0e0&animation=fadeIn&stroke=FFEB3B&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFEB3B&height=180&section=header&text=Hi!%20I'm%20Kshitij%20Raj&fontSize=42&fontColor=0a0a0a&fontAlignY=50&desc=Technical%20Associate%20%40%20Caelius%20Consulting%20%7C%20Salesforce%20Developer%20%7C%20Full-Stack%20Engineer&descSize=15&descAlignY=70&descColor=1a1a1a&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFEB3B&center=true&vCenter=true&width=680&lines=Technical+Associate+%40+Caelius+Consulting+%F0%9F%8F%A2;Salesforce+Developer+%E2%98%81%EF%B8%8F;Full-Stack+Engineer+%F0%9F%9A%80;Mobile+App+Builder+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitijslays)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kshitijslays)
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B-FFEB3B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NirxDuHUti/)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ntu18nep4ne1w2c3oh)
 
 </div>
 
